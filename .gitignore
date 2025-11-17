@@ -1,0 +1,9 @@
+# .env
+.env
+venv/
+
+# Fichier test
+test.py
+
+# Cache Python
+__pycache__/
